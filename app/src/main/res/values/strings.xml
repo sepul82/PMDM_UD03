@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">UD3_Lopez_Otero_David</string>
+    <string-array name="cliente_admin">
+        <item>Cliente</item>
+        <item>Administrador</item>
+
+    </string-array>
+    <string-array name="categoria">
+        <item>Informática</item>
+        <item>Electrónica</item>
+        <item>Móviles</item>
+
+    </string-array>
+    <string-array name="informatica">
+        <item>PC</item>
+        <item>Portátil</item>
+        <item>Monitor</item>
+    </string-array>
+    <string-array name="electronica">
+        <item>TV</item>
+        <item>DVD</item>
+    </string-array>
+    <string-array name="moviles">
+        <item>Pixel</item>
+        <item>Galaxy</item>
+        <item>Iphone</item>
+        <item>Xiaomi</item>
+    </string-array>
+    <string-array name="cantidad">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
